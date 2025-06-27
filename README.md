@@ -82,6 +82,3 @@ Somto Mbonu
 
 Aspiring Penetration Tester & Machine Learning Engineer
 GitHub Profile: [https://github.com/juto-shogan/]
-
-```
-```
